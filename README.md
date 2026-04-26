@@ -1,4 +1,3 @@
-
 # Real-Time Fraud Detection System
 
 ## Overview
@@ -187,4 +186,8 @@ Feel free to open issues or create pull requests to enhance the project.
 ## Contact
 
 For any inquiries, please contact [shvaanroy614@gmail.com](mailto:shivaanroy614@gmail.com).
+
+=======
+# Pipelined_Fraud_detection_System
+Fraud Detection using ML and ETL PipelineKafka
 
